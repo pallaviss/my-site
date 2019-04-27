@@ -13,13 +13,13 @@ role = "Masters Student - Bio-Medical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "College of Engineering, Pune", url = "" } ]
+organizations = [ { name = "College of Engineering, Pune", url = "http://www.coep.org.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Bio-Medical Signal Processing, Medical Imaging and biomedical intrumentation ."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "pallaviap17.instru@coep.ac.in"
 
 # List (academic) interests or hobbies
 interests = [
@@ -33,10 +33,10 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
   course = "M.Tech in Biomedical Instrumentation"
