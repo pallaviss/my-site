@@ -16,7 +16,7 @@ role = "Masters Student - Bio-Medical Engineering"
 organizations = [ { name = "College of Engineering, Pune", url = "http://www.coep.org.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Bio-Medical Signal Processing, Medical Imaging and biomedical intrumentation ."
+bio = "My research interests include Bio-Medical Signal Processing, Medical Imaging and Biomedical Intrumentation ."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "pallaviap17.instru@coep.ac.in"
@@ -44,7 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2017
 
 [[education.courses]]
-  course = "Bacheler's in Biomedical Engineering"
+  course = "Bachelor's in Biomedical Engineering"
   institution = "MGM College of Engineering"
   year = 2011
 
@@ -56,28 +56,34 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:pallaviap17.instru@coep.ac.in"  
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://www.linkedin.com/in/pallavi-patil14/"  
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.in/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F6mwVInfXIofoPRfgMTv-L0JgN0ho4-5Hh_PbDLex_0KHwGvc1oEoG3N8AfYOFfPstNoiinHtbE2BsPB_A5bYkNk7V6QQ&user=03YvjG8AAAAJ"
 
-[[social]]
-  icon = "github"
+ [[social]]
+  icon = "researchgate"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://www.researchgate.net/profile/Pallavi_Patil31" 
+
+  
+#[[social]]
+# icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/saketadhau"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
-
-+++ . 
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
++++ 
