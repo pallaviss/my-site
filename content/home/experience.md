@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * R & D
-  * Technical LAbour
-  * Deploying :abour
+  * Handling mobile X-ray machines and digital detectors for testing
+  * Battery Testing
+  * M. Tech Thesis Project
   """
 
 [[experience]]
@@ -42,8 +42,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * R & D
-  * Technical LAbour
-  * Deploying :abour
+  * Ensured the design and development of medical products is in accordance with standard protocols of IEC,BIS,CE,FDA
+  * Handled internal and external audits according to ISO 13485 and ISO 9001
+  #* 
   """
 +++

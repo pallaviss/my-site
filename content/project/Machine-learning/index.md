@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Machine Learning Based MPC"
+title = "X-ray tube detector alignment"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Using deep neural networks for MPC"
+summary = "X=ray tube and digital detector alignment using UWB and IMU"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,4 +44,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-In this project we are using deep neural networks for Linear model predictive controller
+In advanced mobile X-ray machines also referred to as ’radiology room on wheels’, the traditional cassettes have been replaced by modern wireless detectors. These detectors are randomly placed behind the patients. The misaligned placement of detector w.r.t X-ray tube can cause reshoots due to missing anatomies. Considering ALARA, this paper provides a novel method of alignment technique by combining the incoming real time data from the Ultrawideband sensor and Inertial Motion Unit sensor to calculate a very accurate position of the detector using tri-alteration algorithm and orientation w.r.t X-ray tube. It will reduce the time required for the X-ray tube repositioning and realignment, resulting in smooth user experience. The alignment is done by referring to the GUI provided and the coordinates can be read from LCD continuously.

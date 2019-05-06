@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Real-Time Implementation of NMPC on ARM Cortex M3"
+title = "ECG on internet using Rasperry Pi"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Real-Time Implementation of NMPC on ARM Cortex M3"
+summary = "Displays real time ECG on internet using Rasperry Pi"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["NMPC"]
+#tags = ["NMPC"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,4 +43,4 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
+The current status of heart disease in India is alarming, with projections suggesting that by the year 2020, the population of heart patients in India will surpass all the countries.Thus, monitoring the electrical activity of heart i.e. electrocardiogram is a necessity rather than luxury. ECG machines available in hospital are rather expensive. This paper aims at charting the ECG signal using the Raspberry Pi Arm processor. The ECG signals are recorded from the patient via the AD8232 ECG module and then this data is digitized using serial ADC MCP3008. The processor maps the signal on an online graphics tool plotl.ly using python programming. The main advantage of this system is that the result can be viewed at any place at any time. In this way, Internet of Things (IOT) concept is used to diagnose the heart defect and abnormalities in ECG without involving expensive ECG machines.
