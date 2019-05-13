@@ -20,11 +20,7 @@ publication = "In  3 <sup>rd</sup>International Conference on Trends in Electron
 publication_short = "In *ICOEI*"
 
 # Abstract.
-abstract = "In advanced mobile X-ray machines also referred to as ’radiology room on wheels’, the traditional cassettes have been replaced by modern wireless detectors. These detectors are randomly placed behind the patients. The misaligned placement
-of detector w.r.t X-ray tube can cause reshoots due to missing anatomies. Considering ALARA, this paper provides a novel
-method of alignment technique by combining the incoming realtime data from the Ultrawideband sensor and Inertial Motion
-Unit sensor to calculate a very accurate position of the detector using tri-alteration algorithm and orientation w.r.t X-ray tube. It will reduce the time required for the X-ray tube repositioning and realignment, resulting in smooth user experience. The alignment is done by referring to the GUI provided and the coordinates can be read from LCD continuously. "
-
+abstract = ""
 # Summary. An optional shortened abstract.
 summary = ""
 
@@ -36,7 +32,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["ECG"]
+tags = ["X-ray"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -44,7 +40,7 @@ tags = ["ECG"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-   projects = ["ECG"]
+   projects = ["X-ray"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -57,13 +53,13 @@ tags = ["ECG"]
 # Links (optional).
 #url_pdf = "https://ieeexplore.ieee.org/document/8668157"
 url_preprint = "https://pallaviap.netlify.com/publication/icoei/ICOEI.pdf"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = "https://pallaviap.netlify.com/publication/icc/icc-ppt.pdf"
-url_video = ""
-url_poster = ""
-url_source = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = "https://pallaviap.netlify.com/publication/icoei/icoe.pdf"
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
