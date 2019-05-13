@@ -1,5 +1,5 @@
 +++
-title = "ECG on internet using Raspberry Pi"
+title = "X-ray tube and wireless detector alignment using Ultra-wideband and Inertial Motion Unit sensor"
 date = 2018-02-18T01:12:51+05:30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,17 +16,20 @@ authors = ["Pallavi Patil", "Kalyani Bhole"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In  International Conference for Computation, Communication and Internet of Things*, IEEE, Madras, India."
-publication_short = "In *Ic3IoT*"
+publication = "In  3 <sup>rd</sup>International Conference on Trends in Electronics and Informatics *, IEEE, India."
+publication_short = "In *ICOEI*"
 
 # Abstract.
-abstract = "The current status of heart disease in India is alarming, with projections suggesting that by the year 2020, the population of heart patients in India will surpass all the countries. Thus, monitoring the electrical activity of heart i.e. electrocardiogram is a necessity rather than luxury. ECG machines available in hospital are rather expensive. This paper aims at charting the ECG signal using the Raspberry Pi Arm processor. The ECG signals are recorded from the patient via the AD8232 ECG module and then this data is digitized using serial ADC MCP3008. The processor maps the signal on an online graphics tool plotl.ly using python programming. The main advantage of this system is that the result can be viewed at any place at any time. In this way, Internet of Things (IOT) concept is used to diagnose the heart defect and abnormalities in ECG without involving expensive ECG machines. "
+abstract = "In advanced mobile X-ray machines also referred to as ’radiology room on wheels’, the traditional cassettes have been replaced by modern wireless detectors. These detectors are randomly placed behind the patients. The misaligned placement
+of detector w.r.t X-ray tube can cause reshoots due to missing anatomies. Considering ALARA, this paper provides a novel
+method of alignment technique by combining the incoming realtime data from the Ultrawideband sensor and Inertial Motion
+Unit sensor to calculate a very accurate position of the detector using tri-alteration algorithm and orientation w.r.t X-ray tube. It will reduce the time required for the X-ray tube repositioning and realignment, resulting in smooth user experience. The alignment is done by referring to the GUI provided and the coordinates can be read from LCD continuously. "
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/IC3IoT.2018.8668157"
+#doi = "10.1109/IC3IoT.2018.8668157"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,11 +56,11 @@ tags = ["ECG"]
 
 # Links (optional).
 #url_pdf = "https://ieeexplore.ieee.org/document/8668157"
-#url_preprint = "https://saketadhau.netlify.com/publication/i2ct/i2ct.pdf"
+url_preprint = "https://pallaviap.netlify.com/publication/icoei/ICOEI.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://pallaviap.netlify.com/publication/ic3iot/ppt.pdf"
+url_slides = "https://pallaviap.netlify.com/publication/icc/icc-ppt.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""

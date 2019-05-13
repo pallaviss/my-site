@@ -10,7 +10,7 @@ summary = "Displays real time ECG on internet using Rasperry Pi"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["NMPC"]
+tags = ["ECG"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8668157"
 url_slides = ""
 url_video = ""
 url_code = ""

@@ -10,7 +10,7 @@ summary = "Novel method to detect Cholesterol using Smartphone"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["NMPC"]
+tags = ["cholestrol"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
