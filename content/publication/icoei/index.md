@@ -20,7 +20,7 @@ publication = "In  3 <sup>rd</sup>International Conference on Trends in Electron
 publication_short = "In *ICOEI*"
 
 # Abstract.
-abstract = ""
+abstract = "In advanced mobile X-ray machines also referred to as radiology room on wheels, the traditional cassettes have been replaced by modern wireless detectors. These detectors are randomly placed behind the patients. The misaligned placement of detector w.r.t X-ray tube can cause reshoots due to missing anatomies. Considering ALARA, this paper provides a novel method of alignment technique by combining the incoming real time data from the Ultrawideband sensor and Inertial Motion Unit sensor to calculate a very accurate position of the detector using tri-alteration algorithm and orientation w.r.t X-ray tube. It will reduce the time required for the X-ray tube repositioning and realignment, resulting in smooth user experience. The alignment is done by referring to the GUI provided and the coordinates can be read from LCD continuously."
 # Summary. An optional shortened abstract.
 summary = ""
 
@@ -56,7 +56,7 @@ url_preprint = "https://pallaviap.netlify.com/publication/icoei/ICOEI.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
-#url_slides = "https://pallaviap.netlify.com/publication/icoei/icoe.pdf"
+url_slides = "https://pallaviap.netlify.com/publication/icoei/icoe.pdf"
 #url_video = ""
 #url_poster = ""
 #url_source = ""
@@ -76,5 +76,5 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++

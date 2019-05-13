@@ -41,6 +41,6 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "TopRight"
 +++
 The current status of heart disease in India is alarming, with projections suggesting that by the year 2020, the population of heart patients in India will surpass all the countries.Thus, monitoring the electrical activity of heart i.e. electrocardiogram is a necessity rather than luxury. ECG machines available in hospital are rather expensive. This paper aims at charting the ECG signal using the Raspberry Pi Arm processor. The ECG signals are recorded from the patient via the AD8232 ECG module and then this data is digitized using serial ADC MCP3008. The processor maps the signal on an online graphics tool plotl.ly using python programming. The main advantage of this system is that the result can be viewed at any place at any time. In this way, Internet of Things (IOT) concept is used to diagnose the heart defect and abnormalities in ECG without involving expensive ECG machines.

@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://pallaviap.netlify.com/publication/ic3iot/ppt.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
